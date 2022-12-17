@@ -1,3 +1,7 @@
+## Hi, I'm Jamie :grinning: :computer:
+
+
+
 ### Other platforms
 
 - GitLab: https://gitlab.com/JamieBurridge
