@@ -1,4 +1,6 @@
-## Hi, I'm Jamie :grinning: :computer:
+## Hi, I'm Jamie 
+
+:computer: **OS:** Void Linux
 
 
 
