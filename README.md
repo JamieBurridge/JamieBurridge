@@ -1,6 +1,6 @@
 ## Hi, I'm Jamie 
 
-:computer: **OS:** Void Linux
+:computer: **OS:** Endeavour OS
 
 
 
