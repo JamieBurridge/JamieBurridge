@@ -16,6 +16,7 @@ Just a guy that loves linux and web development.
 
 ### :desktop_computer: **Links:**
 - [EndeavourOS Forums](https://forum.endeavouros.com/u/xross/summary)
+- [CodeWars](https://www.codewars.com/users/JamieBurridge/stats)
 - [GitLab](https://gitlab.com/JamieBurridge)
 
 
