@@ -1,12 +1,24 @@
-## Hi, I'm Jamie 
+## Hi! I'm Jamie :grin:
 
-:computer: **OS:** Endeavour OS
+Just a guy that loves linux and web development.
+
+### :computer: **Tech Stack**
+
+**Laptop:** Thinkpad E15 Gen 3 AMD
+
+**OS:** Endeavour
+
+**Window Manager:** I3
+
+**Code Editor:** Visual Studo Code, Vim
 
 
 
-### Other platforms
+### :desktop_computer: **Links:**
+- [EndeavourOS Forums](https://forum.endeavouros.com/u/xross/summary)
+- [GitLab](https://gitlab.com/JamieBurridge)
 
-- GitLab: https://gitlab.com/JamieBurridge
+
 
 <!--
 **JamieBurridge/JamieBurridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
