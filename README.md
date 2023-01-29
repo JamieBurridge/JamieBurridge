@@ -1,6 +1,6 @@
-## Hi! I'm Jamie :grin:
+## Hi! I'm Jamie
 
-Just a guy that loves linux and web development.
+Just a guy that likes linux and programming.
 
 ### :computer: **Tech Stack**
 
