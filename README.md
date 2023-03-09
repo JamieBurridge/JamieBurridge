@@ -10,7 +10,7 @@ Just a guy that likes linux and programming.
 
 **Window Manager:** I3
 
-**Code Editor:** Visual Studo Code, Vim
+**Code Editor:** VSCodium, Spacemacs
 
 
 
