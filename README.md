@@ -6,17 +6,13 @@ Just a guy that likes linux and programming.
 
 **Laptop:** Thinkpad E15 Gen 3 AMD
 
-**OS:** Endeavour
+**OS:** Zorin
 
-**Window Manager:** I3
-
-**Code Editor:** VSCodium, Spacemacs
+**Code Editor:** VSCodium
 
 
 
 ### :desktop_computer: **Links:**
-- [EndeavourOS Forums](https://forum.endeavouros.com/u/xross/summary)
-- [CodeWars](https://www.codewars.com/users/JamieBurridge/stats)
 - [GitLab](https://gitlab.com/JamieBurridge)
 
 
