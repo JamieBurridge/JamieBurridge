@@ -6,8 +6,6 @@ Just a guy that likes linux and programming.
 
 **Laptop:** Thinkpad E15 Gen 3 AMD
 
-**OS:** Zorin
-
 **Code Editor:** VSCodium
 
 
