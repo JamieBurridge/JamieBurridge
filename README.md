@@ -2,7 +2,7 @@
 
 Just a guy that likes linux and programming.
 
-### :computer: **Tech Stack**
+### :computer: **Tech Stuff**
 
 **Laptop:** Thinkpad E15 Gen 3 AMD
 
