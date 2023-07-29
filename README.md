@@ -12,6 +12,7 @@ Just a guy that likes linux and programming.
 
 ### :desktop_computer: **Links:**
 - [GitLab](https://gitlab.com/JamieBurridge)
+- [Portfolio](https://jamie-john-portfolio.vercel.app/)
 
 
 
