@@ -4,7 +4,7 @@ Just a guy that likes linux and programming.
 
 ### :computer: **Tech Stuff**
 
-**Laptop:** Thinkpad E15 Gen 3 AMD
+**Laptop:** Thinkpad E15
 
 **Editor:** VSCodium
 
