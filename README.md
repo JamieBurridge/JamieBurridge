@@ -1,13 +1,6 @@
 ## Hi! I'm Jamie
 
-Just a guy that likes linux and programming.
-
-### :computer: **Tech Stuff**
-
-**Laptop:** Thinkpad E15
-
-**Editor:** VSCodium
-
+Just a person that likes linux and programming.
 
 
 ### :desktop_computer: **Links:**
