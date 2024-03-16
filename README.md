@@ -1,4 +1,4 @@
-## Hi! I'm Jamie
+## Hi! I'm Jay
 
 Just a person that likes linux and programming.
 
